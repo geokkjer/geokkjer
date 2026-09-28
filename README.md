@@ -2,6 +2,8 @@
 
 Instructor at [Get Academy](https://getacademy.no) — teaching the frontend course (Vue and frameworkless) and the devops module on the backend course. Norway.
 
+[geokkjer.eu](https://geokkjer.eu) · [Forgejo](https://git.geokkjer.eu/geir) · [Blog](https://blog.geokkjer.eu)
+
 **Currently**
 
 - Frontend course: Vue, plus frameworkless JS so students know what the framework actually does
